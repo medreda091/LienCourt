@@ -209,3 +209,9 @@ No secrets are stored in the repository — configuration is provided exclusivel
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+## Roadmap
+
+- QR codes : générer un QR code téléchargeable pour chaque lien court depuis sa page de statistiques.
+- Statistiques par jour : visualiser les clics par jour pour chaque lien.
+- Expiration personnalisée : choisir une durée ou une date d'expiration sur mesure pour chaque lien.
